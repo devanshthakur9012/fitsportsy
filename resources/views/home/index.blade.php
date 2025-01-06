@@ -15,7 +15,7 @@
     font-weight: 500;
 }
 .location{
-    background: #004aad;
+    background: #6e6e6e;
     color: #fff;
     border-radius: 20px;
     padding: 4px 10px;

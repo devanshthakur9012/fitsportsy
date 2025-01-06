@@ -349,7 +349,7 @@
             margin-right: 15px;
         }
         .tags{
-            background:#004aad;
+            background:#6e6e6e;
             color: #fff;
             border-radius: 20px;
             padding: 10px 15px;
@@ -389,7 +389,7 @@
         }
 
         .alert_info{
-            background: #070b28 !important;
+            background: #0a0a0a !important;
             padding: 20px;
             text-align: left;
             color: #ffffff;
@@ -400,7 +400,7 @@
         }
 
         .alert_info span{
-            color:#004aad;
+            color:#6e6e6e;
         }
 
         .alert_info .iconBox{
@@ -490,7 +490,7 @@
 
         .type_cat{
             padding: 4px 8px !important;
-            background: #004aad;
+            background: #6e6e6e;
             color: #ffffff;
             font-size: 12px !important;
             font-weight: 400;
@@ -524,7 +524,7 @@
     font-weight: 500;
 }
 .location{
-    background: #004aad;
+    background: #6e6e6e;
     color: #fff;
     border-radius: 20px;
     padding: 4px 10px;
